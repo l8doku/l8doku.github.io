@@ -23,7 +23,7 @@ var anglestack = []
 var whereinstring = 0; // where in the L-system are we?
 
 function setup() {
-  createCanvas(710, 400);
+  createCanvas(300, 300);
   background(255);
   stroke(0, 0, 0, 255);
   
